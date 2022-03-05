@@ -17,7 +17,7 @@ Firstly I convert hex values to binary
 
 Now I have 2 values. These are
 
-11000100000100010101 for 0xc4115
+11000100000100010101 for 0xc4115 and 
 0100110011111000 for 0x4cf8
 
 For XOR Encryption, values must be has same length. For this reason, I add 0 to the beginning of the shorter value **until their lengths are equal**.
