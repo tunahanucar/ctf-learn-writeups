@@ -12,8 +12,8 @@ I decided trying to XOR decryption for solve this challange.
 
 Firstly I convert hex values to binary
 
-![HEX TO BINARY](/img/hex_to_bin_1.png)
-![HEX TO BINARY](/img/hex_to_bin_2.png)
+![HEX TO BINARY](https://github.com/tunahan994/ctf-learn-writeups/blob/main/Writeups/Hextroadinary/img/hex_to_bin_1.png)
+![HEX TO BINARY](https://github.com/tunahan994/ctf-learn-writeups/blob/main/Writeups/Hextroadinary/img/hex_to_bin_2.png)
 
 Now I have 2 values. These are
 
@@ -32,7 +32,7 @@ Then I XORed them. (1 for different values and 0 for same values)
 
 Our new value is 11000000110111101101. Now we must convert this binary value to hex.
 
-![BIN TO HEX](/img/bin_to_hex_1.png)
+![BIN TO HEX](https://github.com/tunahan994/ctf-learn-writeups/blob/main/Writeups/Hextroadinary/img/bin_to_hex_1.png)
 
 Good. Now we have the answer.
 Flag is:
