@@ -2,7 +2,7 @@
 
 We have a description and a photo (Snowboard.jpg)
 
-I don't see anything on photo. Let's look at metadata.
+I don't see anything on photo. Let's look at metadata (using exiftool).
 
 ![EXIFTOOL](https://github.com/tunahan994/ctf-learn-writeups/blob/main/Writeups/Snowboard/img/exif.png)
 
