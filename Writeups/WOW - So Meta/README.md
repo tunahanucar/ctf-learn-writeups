@@ -6,11 +6,11 @@ We have a description
 
 When I go to the link I see an image on the page. Then I download the image.
 
-![DOWNLOAD](https://github.com/tunahan994/ctf-learn-writeups/edit/main/Writeups/WOW - So Meta/img/mega.png)
+![DOWNLOAD](https://github.com/tunahan994/ctf-learn-writeups/edit/main/Writeups/WOW\ -\ So Meta/img/mega.png)
 
 How about checking the metadata? I use exiftool and check photo's metadata. Flag is there (Camera Serial Number):
 
-![METADATA](https://github.com/tunahan994/ctf-learn-writeups/edit/main/Writeups/WOW - So Meta/img/exif.png)
+![METADATA](https://github.com/tunahan994/ctf-learn-writeups/edit/main/Writeups/WOW\ -\ So Meta/img/exif.png)
 
 Flag is:
 
